@@ -117,7 +117,7 @@ function HomePage({ setFile, setAudioStream }) {
 
 HomePage.propTypes = {
   setFile: PropTypes.func,
-  ssetAudioStream: PropTypes.func,
+  setAudioStream: PropTypes.func,
 };
 
 export default HomePage;
